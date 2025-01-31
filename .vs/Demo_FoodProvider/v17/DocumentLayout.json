@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F238C68-6E48-49CA-90DE-37C762BED8E9}|Payment\\Payment.csproj|c:\\users\\kjosaayala\\source\\repos\\demo_foodprovider\\payment\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F238C68-6E48-49CA-90DE-37C762BED8E9}|Payment\\Payment.csproj|solutionrelative:payment\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE5D1C9-52BA-4C5B-9587-BF1E9D133D5E}|Order\\Order.csproj|c:\\users\\kjosaayala\\source\\repos\\demo_foodprovider\\order\\endpoints\\orderendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE5D1C9-52BA-4C5B-9587-BF1E9D133D5E}|Order\\Order.csproj|solutionrelative:order\\endpoints\\orderendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE5D1C9-52BA-4C5B-9587-BF1E9D133D5E}|Order\\Order.csproj|c:\\users\\kjosaayala\\source\\repos\\demo_foodprovider\\order\\data\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE5D1C9-52BA-4C5B-9587-BF1E9D133D5E}|Order\\Order.csproj|solutionrelative:order\\data\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F238C68-6E48-49CA-90DE-37C762BED8E9}|Payment\\Payment.csproj|c:\\users\\kjosaayala\\source\\repos\\demo_foodprovider\\payment\\data\\paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F238C68-6E48-49CA-90DE-37C762BED8E9}|Payment\\Payment.csproj|solutionrelative:payment\\data\\paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975D0533-DE66-4A1E-8BD5-09BFACA605D6}|Inventory\\Inventory.csproj|c:\\users\\kjosaayala\\source\\repos\\demo_foodprovider\\inventory\\data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975D0533-DE66-4A1E-8BD5-09BFACA605D6}|Inventory\\Inventory.csproj|solutionrelative:inventory\\data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975D0533-DE66-4A1E-8BD5-09BFACA605D6}|Inventory\\Inventory.csproj|c:\\users\\kjosaayala\\source\\repos\\demo_foodprovider\\inventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{975D0533-DE66-4A1E-8BD5-09BFACA605D6}|Inventory\\Inventory.csproj|solutionrelative:inventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F238C68-6E48-49CA-90DE-37C762BED8E9}|Payment\\Payment.csproj|c:\\users\\kjosaayala\\source\\repos\\demo_foodprovider\\payment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F238C68-6E48-49CA-90DE-37C762BED8E9}|Payment\\Payment.csproj|solutionrelative:payment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE5D1C9-52BA-4C5B-9587-BF1E9D133D5E}|Order\\Order.csproj|c:\\users\\kjosaayala\\source\\repos\\demo_foodprovider\\order\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FAE5D1C9-52BA-4C5B-9587-BF1E9D133D5E}|Order\\Order.csproj|solutionrelative:order\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F238C68-6E48-49CA-90DE-37C762BED8E9}|Payment\\Payment.csproj|c:\\users\\kjosaayala\\source\\repos\\demo_foodprovider\\payment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F238C68-6E48-49CA-90DE-37C762BED8E9}|Payment\\Payment.csproj|solutionrelative:payment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE5D1C9-52BA-4C5B-9587-BF1E9D133D5E}|Order\\Order.csproj|c:\\users\\kjosaayala\\source\\repos\\demo_foodprovider\\order\\models\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE5D1C9-52BA-4C5B-9587-BF1E9D133D5E}|Order\\Order.csproj|solutionrelative:order\\models\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975D0533-DE66-4A1E-8BD5-09BFACA605D6}|Inventory\\Inventory.csproj|c:\\users\\kjosaayala\\source\\repos\\demo_foodprovider\\inventory\\enpoints\\inventoryendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975D0533-DE66-4A1E-8BD5-09BFACA605D6}|Inventory\\Inventory.csproj|solutionrelative:inventory\\enpoints\\inventoryendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975D0533-DE66-4A1E-8BD5-09BFACA605D6}|Inventory\\Inventory.csproj|c:\\users\\kjosaayala\\source\\repos\\demo_foodprovider\\inventory\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{975D0533-DE66-4A1E-8BD5-09BFACA605D6}|Inventory\\Inventory.csproj|solutionrelative:inventory\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 548,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 548,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Inventory\\appsettings.json",
+              "RelativeDocumentMoniker": "Inventory\\appsettings.json",
+              "ToolTip": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Inventory\\appsettings.json",
+              "RelativeToolTip": "Inventory\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T14:16:32.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Payment\\appsettings.json",
+              "RelativeDocumentMoniker": "Payment\\appsettings.json",
+              "ToolTip": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Payment\\appsettings.json",
+              "RelativeToolTip": "Payment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T14:16:13.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Order\\appsettings.json",
+              "RelativeDocumentMoniker": "Order\\appsettings.json",
+              "ToolTip": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Order\\appsettings.json",
+              "RelativeToolTip": "Order\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T14:16:02.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentContext.cs",
+              "DocumentMoniker": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Payment\\Data\\PaymentContext.cs",
+              "RelativeDocumentMoniker": "Payment\\Data\\PaymentContext.cs",
+              "ToolTip": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Payment\\Data\\PaymentContext.cs",
+              "RelativeToolTip": "Payment\\Data\\PaymentContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:07:53.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Payment\\Program.cs",
+              "RelativeDocumentMoniker": "Payment\\Program.cs",
+              "ToolTip": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Payment\\Program.cs",
+              "RelativeToolTip": "Payment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:03:53.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Payment\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Payment\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Payment\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Payment\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAvwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:01:01.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Order\\Data\\OrderContext.cs",
+              "RelativeDocumentMoniker": "Order\\Data\\OrderContext.cs",
+              "ToolTip": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Order\\Data\\OrderContext.cs",
+              "RelativeToolTip": "Order\\Data\\OrderContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:45:40.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Order\\Endpoints\\OrderEndpoints.cs",
+              "RelativeDocumentMoniker": "Order\\Endpoints\\OrderEndpoints.cs",
+              "ToolTip": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Order\\Endpoints\\OrderEndpoints.cs",
+              "RelativeToolTip": "Order\\Endpoints\\OrderEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:40:00.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Inventory\\Data\\InventoryContext.cs",
+              "RelativeDocumentMoniker": "Inventory\\Data\\InventoryContext.cs",
+              "ToolTip": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Inventory\\Data\\InventoryContext.cs",
+              "RelativeToolTip": "Inventory\\Data\\InventoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:19:54.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Inventory\\Enpoints\\InventoryEndpoints.cs",
+              "RelativeDocumentMoniker": "Inventory\\Enpoints\\InventoryEndpoints.cs",
+              "ToolTip": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Inventory\\Enpoints\\InventoryEndpoints.cs",
+              "RelativeToolTip": "Inventory\\Enpoints\\InventoryEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:32:35.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Inventory\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Inventory\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Inventory\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Inventory\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T02:09:30.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Order\\Models\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "Order\\Models\\OrderRequest.cs",
+              "ToolTip": "C:\\Users\\kjosaayala\\source\\repos\\Demo_FoodProvider\\Order\\Models\\OrderRequest.cs",
+              "RelativeToolTip": "Order\\Models\\OrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:13:23.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

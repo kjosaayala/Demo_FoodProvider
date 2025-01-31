@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment", "Payment\Payment.csproj", "{1F238C68-6E48-49CA-90DE-37C762BED8E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory", "Inventory\Inventory.csproj", "{975D0533-DE66-4A1E-8BD5-09BFACA605D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order", "Order\Order.csproj", "{FAE5D1C9-52BA-4C5B-9587-BF1E9D133D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F238C68-6E48-49CA-90DE-37C762BED8E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F238C68-6E48-49CA-90DE-37C762BED8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F238C68-6E48-49CA-90DE-37C762BED8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F238C68-6E48-49CA-90DE-37C762BED8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975D0533-DE66-4A1E-8BD5-09BFACA605D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975D0533-DE66-4A1E-8BD5-09BFACA605D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975D0533-DE66-4A1E-8BD5-09BFACA605D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975D0533-DE66-4A1E-8BD5-09BFACA605D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAE5D1C9-52BA-4C5B-9587-BF1E9D133D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE5D1C9-52BA-4C5B-9587-BF1E9D133D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE5D1C9-52BA-4C5B-9587-BF1E9D133D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE5D1C9-52BA-4C5B-9587-BF1E9D133D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23B7FB6F-5E0F-4949-93FB-1B5EFC5D3B2E}
+	EndGlobalSection
+EndGlobal
