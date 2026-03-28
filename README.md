@@ -272,29 +272,6 @@ Type: `PaymentRequest`
 
 ---
 
-### ⚠️ GET `/WeatherForecast`
-**Controller:** `WeatherForecastController` (multiple instances)
-
-**Description:** Returns a 5-day weather forecast with random data (template/demo endpoint).
-
-**Parameters:** None
-
-**Responses:**
-
-| Status Code | Description | Response Body |
-|-------------|-------------|---------------|
-| 200 OK | Array of 5 weather forecasts | `WeatherForecast[]` |
-
-**Business Rules:**
-- Generates random temperatures between -20°C and 55°C
-- Returns forecasts for the next 5 days
-
-**⚠️ Security Issue:** No authentication/authorization visible.
-
-**Note:** This endpoint exists in multiple namespaces (Inventory, Order, Payment, OrdersService) - appears to be template code that should be removed.
-
----
-
 ### Inventory Endpoints
 **Note:** The code includes `app.MapInventoryEndpoints()` in Program.cs, but the endpoint definitions are not provided in the source code. These would need to be documented separately.
 
